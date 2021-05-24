@@ -1,2 +1,2 @@
 # To Do app
- To Do app with Python
+ To Do app with Python Tkinter
